@@ -1,0 +1,6 @@
+ID;cat1;cat2;type;value
+101;cat1-1;cat2-1;String;testValue1
+102;cat1-2;cat2-2;String;testValue2
+201;cat1-3;cat2-3;Boolean;true
+202;cat1-4;cat2-4;Int;100
+999;cat1-5;cat2-5;Number;100.11
