@@ -1,0 +1,21 @@
+{
+    "[development]": {
+        "auth": {
+            "passport": {
+                "strategy": "mock",
+                "users": {
+                    "config.manager@tester.sap.com": {
+                        "password": "configmanager",
+                        "ID": "configmanager",
+                        "userAttributes": {
+                            "email": "config.manager@tester.sap.com"
+                        },
+                        "roles": [
+                            "ConfigManager"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
